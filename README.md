@@ -2,8 +2,5 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, código limpo e... café quente!
 
-```bash
-while (!success) {
-  tryAgain();
-  if (coffee.empty()) refill();
-}
+![Coffee Refill](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
