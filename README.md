@@ -2,5 +2,6 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, código limpo e... café quente!
 
-![Coffee Refill](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Refill](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 
