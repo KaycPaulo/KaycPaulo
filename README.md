@@ -2,8 +2,8 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, código limpo e... café quente!
 
+### ⚙️ Sistema de produtividade:
 
-> `Refill automático ativado!`
-
-
-
+☑️ Código limpo  
+☑️ Café na caneca  
+☕ **Status:** Refill em andamento...
