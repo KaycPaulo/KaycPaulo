@@ -1,6 +1,6 @@
 ## 👋 Olá! Seja bem-vindo ao meu GitHub
 
-Sou um desenvolvedor apaixonado por tecnologia, código limpo e... café quente!
+Adoro um café quente!!☕
 
 ### ⚙️ Sistema de produtividade:
 
