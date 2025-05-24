@@ -8,5 +8,5 @@ Adoro um café quente!!☕
 ☑️ Café na caneca  
 ☕ **Status:** Refill em andamento...
 
-<img src="assets/gif/UEl2-unscreen.gif" alt="Imagem sem fundo" width="300"/>
+<img src="assets/gif/Coffee Ripple.gif" alt="Imagem sem fundo" width="300"/>
 
