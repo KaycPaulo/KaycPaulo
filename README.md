@@ -1,4 +1,4 @@
-## 👋 Olá! Seja bem-vindo ao meu GitHub
+## <h1>👋 Olá! Seja bem-vindo ao meu GitHub</h1>
 
 Adoro um café quente!!☕
 
@@ -9,8 +9,8 @@ Adoro um café quente!!☕
 
 ## ⚙️ Sistema de produtividade:
 
-☑️ Código limpo  
-☑️ Café na caneca  
-☕ **Status:** Refill em andamento...
+- ☑️ Código limpo  
+- ☑️ Café na caneca  
+- ☕ **Status:** Refill em andamento...
 
 
