@@ -23,12 +23,15 @@ Aqui você vai encontrar alguns dos meus projetos, experimentos e aprendizados.
 
 ## 📊 Minhas Estatísticas do GitHub
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: stretch;">
+## 📊 Minhas Estatísticas do GitHub
 
-  <img src="https://github-readme-stats.vercel.app/api?username=KaycPaulo&show_icons=true&theme=github_dark" alt="GitHub Stats" width="100"/>
+<div align="center" style="display: flex; gap: 20px; justify-content: center;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaycPaulo&layout=compact&theme=github_dark" alt="Top Languages" width="100"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaycPaulo&show_icons=true&theme=github_dark&hide_border=false&border_radius=10" width="320" height="200" />
 
-  <img src="https://streak-stats.demolab.com?user=KaycPaulo&theme=github-dark" alt="GitHub Streak" width="100"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaycPaulo&layout=compact&theme=github_dark&hide_border=false&border_radius=10" width="320" height="200" />
+
+  <img src="https://streak-stats.demolab.com?user=KaycPaulo&theme=github-dark&hide_border=false&border_radius=10" width="320" height="200" />
 
 </div>
+
