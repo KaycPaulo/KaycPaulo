@@ -2,10 +2,13 @@
 
 Adoro um café quente!!☕
 
+---
+
 <div align="center">
   <img src="assets/gif/Coffee Ripple.gif" alt="Imagem sem fundo" width="250"/>
 </div>
 
+---
 
 ## ⚙️ Sistema de produtividade:
 
