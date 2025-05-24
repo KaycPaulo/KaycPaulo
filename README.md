@@ -5,6 +5,8 @@ Me chamo <strong>Kayc Paulo</strong> e sou apaixonado por tecnologia, desenvolvi
 Gosto de transformar ideias em código e estou sempre explorando novas ferramentas e desafios.
 Aqui você vai encontrar alguns dos meus projetos, experimentos e aprendizados.
 
+<h2>Combustível oficial do meu repositório: café. ☕🚀</h2>
+
 <div align="center">
   <img src="assets/gif/Coffee Ripple.gif" alt="Imagem sem fundo" width="250"/>
 </div>
