@@ -11,16 +11,6 @@ Aqui você vai encontrar alguns dos meus projetos, experimentos e aprendizados.
   <img src="assets/gif/Coffee Ripple.gif" alt="Imagem sem fundo" width="250"/>
 </div>
 
----
-
-## ⚙️ Sistema de produtividade:
-
-- ☑️ Código limpo  
-- ☑️ Café na caneca  
-- ☕ **Status:** Refill em andamento...
-
----
-
 ## 📊 Minhas Estatísticas do GitHub
 
 <div align="center" style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
