@@ -21,10 +21,12 @@ Aqui você vai encontrar alguns dos meus projetos, experimentos e aprendizados.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaycPaulo&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaycPaulo&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaycPaulo&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaycPaulo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KaycPaulo&theme=github-dark" alt="GitHub Streak" />
+</p>
