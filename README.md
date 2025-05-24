@@ -21,3 +21,6 @@ Aqui você vai encontrar alguns dos meus projetos, experimentos e aprendizados.
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaycPaulo&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</div>
