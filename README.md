@@ -8,4 +8,5 @@ Adoro um café quente!!☕
 ☑️ Café na caneca  
 ☕ **Status:** Refill em andamento...
 
-![Funny cat](https://i.gifer.com/UEl2.gif)
+<img src="assets/gif/UEl2-unscreen.gif" alt="Imagem sem fundo" width="300"/>
+
