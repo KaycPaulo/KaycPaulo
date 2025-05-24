@@ -20,13 +20,3 @@ Aqui você vai encontrar alguns dos meus projetos, experimentos e aprendizados.
 - ☕ **Status:** Refill em andamento...
 
 ---
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaycPaulo&show_icons=true&theme=github_dark" alt="GitHub Stats" width="420"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaycPaulo&layout=compact&theme=github_dark" alt="Top Languages" width="420"/>
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaycPaulo&theme=github-dark" alt="GitHub Streak" width="420"/>
-</p>
