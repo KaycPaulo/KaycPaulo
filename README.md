@@ -2,8 +2,6 @@
 
 Adoro um café quente!!☕
 
----
-
 <div align="center">
   <img src="assets/gif/Coffee Ripple.gif" alt="Imagem sem fundo" width="250"/>
 </div>
@@ -16,4 +14,5 @@ Adoro um café quente!!☕
 - ☑️ Café na caneca  
 - ☕ **Status:** Refill em andamento...
 
+---
 
