@@ -18,9 +18,6 @@ Aqui você vai encontrar alguns dos meus projetos, experimentos e aprendizados.
   <img src="https://github-readme-stats.vercel.app/api?username=KaycPaulo&show_icons=true&&include_all_commits=true&theme=github_dark&hide_border=false&border_radius=8" width="260" height="170" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaycPaulo&layout=compact&theme=github_dark&hide_border=false&border_radius=8" width="260" height="170" />
-
-  <img src="https://streak-stats.demolab.com?user=KaycPaulo&theme=github-dark&hide_border=false&border_radius=8" width="260" height="170" />
-
 </div>
 
 
